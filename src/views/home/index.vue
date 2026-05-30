@@ -48,7 +48,8 @@ const defaultLineChartData: LineChartDataItem[] = [
   { date: '2026-01-12', orderCount: 80, orderAmount: 8293 },
   { date: '2026-01-13', orderCount: 100, orderAmount: 10293 },
   { date: '2026-01-14', orderCount: 10, orderAmount: 1293 },
-  { date: '2026-01-15', orderCount: 40, orderAmount: 4293 }
+  { date: '2026-01-15', orderCount: 40, orderAmount: 4293 },
+  { date: '2026-01-16', orderCount: 40, orderAmount: 4293 },
 ]
 
 // 默认起始日期
